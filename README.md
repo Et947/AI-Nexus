@@ -1,53 +1,33 @@
-> Edited for use in IDX on 07/09/12
+# 🇮🇳 CodeNetra (कोड नेत्र)
+> **The Developer's Third Eye: AI Vision & Code Analysis**
 
-# Welcome to your Expo app 👋
+![CodeNetra Badge](https://img.shields.io/badge/CodeNetra-AI_Vision-orange?style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🚀 About The Project
+**CodeNetra** is a powerful AI assistant built for the **2026 AI Hackathon**. Combining the power of **Google Gemini Pro** with mobile vision, CodeNetra acts as a "Third Eye" for developers and users.
 
-## Get started
+It doesn't just see objects; it **reads logic**. Whether it's handwritten code on a notepad or a complex error on a screen, CodeNetra sees it, understands it, and fixes it.
 
-#### Android
+## ✨ Key Features
 
-Android previews are defined as a `workspace.onStart` hook and started as a vscode task when the workspace is opened/started.
+### 👁️ Code Vision (The Core)
+* **Scan & Debug:** Point the camera at any code snippet (screen or paper) to find bugs instantly.
+* **Logic Explanation:** Don't understand a function? CodeNetra explains the logic in simple Hinglish/English.
+* **Handwriting to Code:** Convert handwritten algorithms into executable code.
 
-Note, if you can't find the task, either:
-- Rebuild the environment (using command palette: `IDX: Rebuild Environment`), or
-- Run `npm run android -- --tunnel` command manually run android and see the output in your terminal. The device should pick up this new command and switch to start displaying the output from it.
+### 🎙️ Voice of Code
+* **Talk to Your IDE:** Ask coding questions via voice commands.
+* **Natural Interaction:** Supports natural conversations for brainstorming logic.
 
-In the output of this command/task, you'll find options to open the app in a
+### 🔍 Smart Object Detection
+* Identify gadgets, hardware components, and everyday objects with high precision using Gemini Vision.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Tech Stack
+* **Frontend:** React Native (Expo)
+* **AI Model:** Google Gemini Pro & Gemini Pro Vision
+* **Language:** TypeScript
+* **State Management:** React Hooks
 
-You'll also find options to open the app's developer menu, reload the app, and more.
-
-#### Web
-
-Web previews will be started and managred automatically. Use the toolbar to manually refresh.
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+### 👨‍💻 Developer
+Built with ❤️ by **Et947** (Full Stack Developer).
